@@ -1,53 +1,102 @@
 body {
+
     background-color: #111;
+
     color: white;
+
     text-align: center;
+
+    font-size: 20px;
+
     font-family: Arial;
+
     padding: 20px;
+
 }
 
 h1 {
+
     color: cyan;
-    font-size: 40px;
+
+    font-size: 45px;
+
 }
 
 p {
-    font-size: 20px;
+
+    color: lightgray;
+
 }
 
 img {
+
     width: 500px;
+
     border-radius: 15px;
+
+    margin: 20px;
+
+}
+
+a {
+
+    color: lime;
+
+    font-size: 20px;
+
 }
 
 button {
+
     background-color: cyan;
+
     color: black;
+
     border: none;
+
     padding: 12px 20px;
+
     font-size: 18px;
+
     border-radius: 10px;
+
     cursor: pointer;
+
 }
 
 button:hover {
+
     background-color: lime;
+
 }
 
 table {
+
     width: 80%;
+
     margin: auto;
+
     margin-top: 30px;
+
     border-collapse: collapse;
+
     background-color: #222;
+
 }
 
 th {
+
     background-color: cyan;
+
     color: black;
+
 }
 
 td, th {
+
     border: 1px solid white;
+
     padding: 10px;
+
+}
 }
